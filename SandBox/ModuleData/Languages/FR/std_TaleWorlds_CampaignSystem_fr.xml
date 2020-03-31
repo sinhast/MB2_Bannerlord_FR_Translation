@@ -449,7 +449,7 @@
     <string id="8tBET7S5" text="Good. We will be heading out soon." />
     <string id="8TCev3Qs" text="So, captain. We expect a bit of looting and plundering as compensation, in addition to the wages. You don’t seem like you’re going to provide it to us. So, farewell.[ib:hip]" />
     <string id="8uBbbwY9" text="Max mount difficulty: {a0}" />
-    <string id="8UUV94Lq" text="Ranged Training" />
+    <string id="8UUV94Lq" text="Entraînement à distance" />
     <string id="8Wa6OxG8" text="It's secret. You must be new in your post if you don't know who I am and what I do." />
     <string id="8Wy1OCsr" text="{WEAPON} of {BESIEGER} hit wall of {SETTLEMENT}!" />
     <string id="8Yb3IVvb" text="{SETTLEMENT_NAME} Buildings" />
@@ -1249,7 +1249,7 @@
     <string id="gGXelWQX" text="Issue owner power" />
     <string id="gHnfFi1s" text="Retired" />
     <string id="GhPGpR90" text="a plate of dates" />
-    <string id="Giblfhdx" text="DONE" />
+    <string id="Giblfhdx" text="Valider" />
     <string id="GIkvhuCC" text="Maybe one of your men who knows a thing or two about scouting, with {TROOP_AMOUNT} good men can deal with these scum. So what do you say?" />
     <string id="GIljHGh9" text="20% construction speed bonus to town projects, wall repairs and siege engines." />
     <string id="gjGb044I" text="I hope they will be..." />

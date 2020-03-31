@@ -76,7 +76,7 @@
     <string id="300TAI7u" text="Sell All" />
     <string id="33ghdWWi" text="Other Policies" />
     <string id="33hHRM8r" text="Opponent's Turn" />
-    <string id="3CpNUnVl" text="Cancel" />
+    <string id="3CpNUnVl" text="Annuler" />
     <string id="3CsACce8" text="Exit" />
     <string id="3cTKRX1M" text="Never seen before" />
     <string id="3Ds5ARHL" text="Merchant" />
@@ -110,7 +110,7 @@
     <string id="4bq2mUf1" text="Eligible to create a Kingdom" />
     <string id="4BQaqqzg" text="Security:" />
     <string id="4cU98rkg" text="Smelting" />
-    <string id="4gOGGbeQ" text="Custom Battle" />
+    <string id="4gOGGbeQ" text="Bataille personnalisée" />
     <string id="4H1nDlBO" text="Weekly Wage" />
     <string id="4Hdcxk0a" text="Aggressive" />
     <string id="4IuXGSdc" text="Wall Hitpoints" />
@@ -507,7 +507,7 @@
     <string id="Dzntsudy" text="You have inflicted {AMOUNT} {DAMAGE_TYPE} damage to {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)." />
     <string id="E05lmb5n" text="Your relation with {HERO_NAME} will &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;decrease&lt;/b&gt;&lt;/a&gt;" />
     <string id="E1HbgxyM" text="You can earn attribute points by SOMETHING. TODO:" />
-    <string id="E1OwmQFb" text="Back" />
+    <string id="E1OwmQFb" text="Retour" />
     <string id="e1tZ4kEY" text="All Stuff" />
     <string id="e4OPfBqt" text="Abstain" />
     <string id="e54212r1" text="In towns, you can find talented individuals that can aid you.{newline}{newline}These potential companions can be found hanging out in taverns.{newline}{newline}Go to tavern district now to find a potential companion." />
@@ -753,7 +753,7 @@
     <string id="itvLr7dL" text="Pick up" />
     <string id="iUTXqFmm" text=" and the nearby {?VILLAGE_COUNT}villages{?}village{\?}s of {VILLAGE_NAMES}" />
     <string id="IuWu5Bu7" text="Generosity" />
-    <string id="IUxlDj4s" text="Randomize All" />
+    <string id="IUxlDj4s" text="Tout aléatoire" />
     <string id="iVEZrZzs" text="Ride in vanguard" />
     <string id="IvrBQHRp" text="Melee Weapons" />
     <string id="IwpFM2CJ" text="The tournament will be a horse race." />
@@ -910,7 +910,7 @@
     <string id="lZ1IDnpP" text="Give All" />
     <string id="LZhRP3PM" text="Wait for other siege machines" />
     <string id="LZjdxXex" text="The village is poor. The people are malnourished. Animals are sick or dying. Cropland is being reclaimed by weeds, for lack of hands to sew it." />
-    <string id="Lzmtqif5" text="Army Size" />
+    <string id="Lzmtqif5" text="Taille de l'armée" />
     <string id="lznqF0oO" text="Disbanding" />
     <string id="M00MeRJD" text="Cotton" />
     <string id="M03MNN3T" text="Merlon" />
@@ -1001,7 +1001,7 @@
     <string id="NQbqtEqP" text="Cost: {COUNT}" />
     <string id="NqSLYe6b" text="Renown:" />
     <string id="NRpwZGxI" text="Soldier" />
-    <string id="NSSsxBHV" text="Randomize" />
+    <string id="NSSsxBHV" text="Aléatoire" />
     <string id="NvJru5Tz" text="Male Only" />
     <string id="nVKEUvaC" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} using murder holes." />
     <string id="nvswKHTZ" text="You paid {GOLD_AMOUNT}{GOLD_ICON}." />
@@ -1024,7 +1024,7 @@
     <string id="OBXNbvkK" text="As you attempt to force the villagers to give you supplies, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}." />
     <string id="OCGaTxac" text="Tournament Prize" />
     <string id="OdFPHvtE" text="Rebels are attacking this settlement. Do you want to interfere?" />
-    <string id="ODQmOrIw" text="Credits" />
+    <string id="ODQmOrIw" text="Crédits" />
     <string id="OEax2Y9c" text="Raid caravans. Recruit and lead bandit troops. Infiltrate enemy towns. Give bribes. Escape from captivity." />
     <string id="oGflu1jV" text="Use murder hole" />
     <string id="OGjq7rpg" text="We are taking our products to the market at {TOWN}." />
@@ -1425,7 +1425,7 @@
     <string id="WHED64rw" text="A new troop will be available here after some time." />
     <string id="WhuufgY5" text="Notable Relations" />
     <string id="wib91252" text="Profession: {PROFESSION}" />
-    <string id="WiNRdfsm" text="Done" />
+    <string id="WiNRdfsm" text="Valider" />
     <string id="wjb4tZDX" text="Level: {LEVEL}" />
     <string id="wJn42hTq" text="Garrison Effect with perks" />
     <string id="wjuieMsE" text="Your opponent gained 1 point for the hit!" />

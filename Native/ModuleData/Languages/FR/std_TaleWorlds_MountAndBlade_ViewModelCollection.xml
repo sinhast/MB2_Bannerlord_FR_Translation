@@ -7,7 +7,7 @@
     <string id="0647tsif" text="Profile" />
     <string id="2Q6Mm9Jo" text="Gamepad Options" />
     <string id="2zcrC0h1" text="Gameplay" />
-    <string id="3CpNUnVl" text="Cancel" />
+    <string id="3CpNUnVl" text="Annuler" />
     <string id="3CsACce8" text="Exit" />
     <string id="4Dd2xgPm" text="Weight" />
     <string id="4NaOKslb" text="-" />
@@ -60,7 +60,7 @@
     <string id="F7dBjl83" text="Custom Battle feature is currently disabled" />
     <string id="FD7EQDmW" text="Looking for game" />
     <string id="ffjTMejn" text="Stats" />
-    <string id="fM9E7frB" text="Performance" />
+    <string id="fM9E7frB" text="Graphismes" />
     <string id="FRSGOfUJ" text="Toggle include Combat Log" />
     <string id="ftoSCQ0x" text="Length" />
     <string id="g1lgiwn1" text="Not Logged In" />
@@ -86,7 +86,7 @@
     <string id="iNqucBor" text="Logging In" />
     <string id="J0vjDOFO" text="Thrust Spd." />
     <string id="Jd44GGJW" text="{TEAM} team had the upper hand at timeout" />
-    <string id="JKCounzE" text="Video" />
+    <string id="JKCounzE" text="Vidéo" />
     <string id="JPimShCw" text="Game Type" />
     <string id="jy9orOJz" text="Play" />
     <string id="jZ6GblZu" text="Favorite" />
@@ -103,7 +103,7 @@
     <string id="macpKFaG" text="Voice" />
     <string id="mAxXKaXp" text="Reset" />
     <string id="meFS5F4V" text="-{DAMAGE}" />
-    <string id="Met1U45t" text="Mouse and Keyboard" />
+    <string id="Met1U45t" text="Raccourci" />
     <string id="MsAb6hed" text="{TEAM} team was wiped out" />
     <string id="NaZ6xg33" text="Couldn't find an applicable server to join." />
     <string id="nFvVw68B" text="Invite to Party" />
@@ -158,9 +158,9 @@
     <string id="vZTWMqUp" text="Only party leaders can take action on other party members" />
     <string id="w2yV4Wib" text="Poll Rejected" />
     <string id="W4DLzPSb" text="Server not full" />
-    <string id="w9m11T1y" text="Map" />
+    <string id="w9m11T1y" text="Carte" />
     <string id="wGjQgQlY" text="Next Game begins in:" />
-    <string id="WiNRdfsm" text="Done" />
+    <string id="WiNRdfsm" text="Valider" />
     <string id="wkIVxzV6" text="Restart" />
     <string id="WOQZBmMx" text="Servers" />
     <string id="wTtyFa89" text="PLAY" />

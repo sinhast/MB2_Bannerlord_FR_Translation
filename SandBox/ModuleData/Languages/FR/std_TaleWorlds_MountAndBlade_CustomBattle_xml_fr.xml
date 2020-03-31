@@ -4,10 +4,10 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="35IHscBa" text="ENEMY" />
-    <string id="4gOGGbeQ" text="Custom Battle" />
-    <string id="BC7n6qxk" text="PLAYER" />
-    <string id="fXhblsky" text="MAP" />
-    <string id="mxbq3InD" text="{ARMY_SIZE} men" />
+    <string id="35IHscBa" text="ENNEMI" />
+    <string id="4gOGGbeQ" text="Bataille personnalisée" />
+    <string id="BC7n6qxk" text="JOUEUR" />
+    <string id="fXhblsky" text="CARTE" />
+    <string id="mxbq3InD" text="{ARMY_SIZE} unités" />
   </strings>
 </base>

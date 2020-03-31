@@ -176,7 +176,7 @@
     <string id="irGCyJaY" text="Kill Count" />
     <string id="iTau5cxh" text="Average" />
     <string id="jaaQijQs" text="Age" />
-    <string id="JCcbydcJ" text="({KEY}) {ACTION}" />
+    <string id="JCcbydcJ" text="({ACTION} {KEY})" />
     <string id="JceqNdWx" text="Delegate Command Off" />
     <string id="Jd0Kq9lD" text="Shield" />
     <string id="jEh6EdF9" text="Best of {ROUND_COUNT}" />
@@ -302,7 +302,7 @@
     <string id="u8j8nN5U" text="Face Enemy" />
     <string id="UbMCCh8L" text="Nose Bridge" />
     <string id="uCyQNvq1" text="Skein" />
-    <string id="uGM8DWrm" text="Mount" />
+    <string id="uGM8DWrm" text="Monter sur le cheval" />
     <string id="UHIZLFBn" text="Killed {TROOP_NAME}" />
     <string id="Umb8XsZH" text="Pierce" />
     <string id="umhwsoqb" text="Choose your desired troop at the start of the round and for the further respawns by using gold." />
@@ -327,12 +327,12 @@
     <string id="W1nzgCTY" text="Mouth Forward" />
     <string id="W3OXv9Tx" text="Force Minimum Armor" />
     <string id="W73My5KO" text="Death" />
-    <string id="w9m11T1y" text="Map" />
+    <string id="w9m11T1y" text="Carte" />
     <string id="wBn6eVGS" text="Shallow River" />
     <string id="WfwkVjTA" text="Work alongside your teammates in this fast-paced, tactical PvP game mode. Manage your gold wisely to buy classes and respawns while attempting to break the enemy team's morale or destroy their forces completely." />
     <string id="WhUoF9Mw" text="Fallback" />
     <string id="wIgbfqQR" text="Hair" />
-    <string id="wk4bgkCt" text="Dismount" />
+    <string id="wk4bgkCt" text="Descendre du cheval" />
     <string id="Wl5xazIU" text="Extend/Shrink Map Bar" />
     <string id="WlVa7XwJ" text="Received {DAMAGE} fall damage." />
     <string id="WLztEbPL" text="Height" />
@@ -351,7 +351,7 @@
     <string id="XUKRrgOr" text="Delivered {DAMAGE} {DAMAGE_TYPE} damage to mount." />
     <string id="xXQN7Go6" text="Monolid Eyes" />
     <string id="XZU9SyQW" text="Quick Play" />
-    <string id="XzZFhRwr" text="Return To The Game" />
+    <string id="XzZFhRwr" text="Retour au jeu" />
     <string id="Ybvu10zM" text="Siege" />
     <string id="ycCmfxhJ" text="Fifth Kill" />
     <string id="yClOSxT8" text="Nose Definition" />

@@ -4,7 +4,7 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="3CpNUnVl" text="Cancel" />
+    <string id="3CpNUnVl" text="Annuler" />
     <string id="5zeL8sa9" text="You gained {A0} influence." />
     <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}p" />
     <string id="7WdWK2Dt" text="Save Game" />
@@ -47,7 +47,7 @@
     <string id="V4iU0wRv" text="Gold" />
     <string id="WAKz9xX8" text="You gained {A0} morale." />
     <string id="WDlVhNuq" text="Name your save file" />
-    <string id="WiNRdfsm" text="Done" />
+    <string id="WiNRdfsm" text="Valider" />
     <string id="xu5NA6AW" text="You earned {A0}% of the loot." />
     <string id="xzzSaN4b" text="Expected: {OVERALL_EXPECTED_DENARS}" />
     <string id="yF5fpwNE" text="Total: {TOTAL}" />

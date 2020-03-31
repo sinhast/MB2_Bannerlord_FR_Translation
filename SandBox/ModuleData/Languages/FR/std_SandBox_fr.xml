@@ -75,7 +75,7 @@
     <string id="3a8nmoNM" text="How much do you want to bet on yourself?" />
     <string id="3aziL3Gs" text="Scout {CURRENTLY_HELD_SCOUT}" />
     <string id="3bOcF1Cw" text="I can't spare anyone now. You will need to go alone." />
-    <string id="3CpNUnVl" text="Cancel" />
+    <string id="3CpNUnVl" text="Annuler" />
     <string id="3hEmXhaW" text="I'm {PLAYER.NAME}. Let's skip the pleasantries and get right to business." />
     <string id="3hv4P5OO" text="Would you care to pass the time with a game of {GAME_NAME}?" />
     <string id="3JGRrENx" text="So be it. Let's go. {AMOUNT}{GOLD_ICON}" />

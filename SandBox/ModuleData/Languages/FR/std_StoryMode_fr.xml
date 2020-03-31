@@ -18,7 +18,7 @@
     <string id="1IEroJKs" text="Not everyone who musters for the levy marches to war, and not everyone who goes on campaign sees action. You did both, and you also took down an enemy warrior in direct one-to-one combat, in the full view of your comrades." />
     <string id="1LrHV647" text="Conspiracy Strength" />
     <string id="1r0tDsrR" text="Attack!" />
-    <string id="1RaUauBS" text="You've successfully finished the training." />
+    <string id="1RaUauBS" text="Vous avez terminé l'entraînement avec succès." />
     <string id="1SUTcF0J" text="The gang leaders who kept watch over the slums of Calradian cities were always in need of poor youth to run messages and back them up in turf wars, while thrill-seeking merchants' sons and daughters sometimes slummed it in their company as well." />
     <string id="1v6aYpDx" text="You must choose, but choose wisely. I have no preference. None will bring back the Palaic people, but the final victory of any one of those would be suitable vengeance." />
     <string id="1xqmoDvS" text="We have finished our preparations. Let’s talk to the headman again. He had said he may have a task for us. We could use his friendship." />
@@ -158,7 +158,7 @@
     <string id="btAV7mmq" text="You are defeated by the raiders in the hideout but you managed to escape. You need to wait a while before attacking again." />
     <string id="bTKiN0hr" text="worked in the village smithy" />
     <string id="btsMpRcA" text="Your family owned a smithy in a city. Your father played an active if minor role in the town council, and also served in the militia." />
-    <string id="BTY2aZCt" text="Enter a training area." />
+    <string id="BTY2aZCt" text="Zone d'entraînement." />
     <string id="bWlmGDf3" text="When a sudden storm caused the local stream to rise suddenly, your neighbors needed quick-thinking leadership. You provided it, directing them to build levees to save their homes." />
     <string id="bXAg5w19" text="Younger recruits, or those of a slighter build, or those too poor to buy shield and armor tend to join the skirmishers. Fighting with bow and javelin, they try to stay out of reach of the main enemy forces." />
     <string id="bXKPO8lX" text="Stop Conspiracy" />
@@ -176,7 +176,7 @@
     <string id="cNwejsNl" text="Convenient legend, eh? Of course the Calradians have been defeated many times, but I guess those were not 'true sons.' Still, you could say it represents the strength and endurance of this empire." />
     <string id="cOgmdp9e" text="Decline" />
     <string id="CRmUZvaW" text="Perhaps Neretzes was rash, sending our infantry up into the hills to storm the Battanian fort. But he thought he could grab the pass quickly, before the enemy had time to reinforce it. If he had made the other wager and that turned out to be wrong, people would say he was hesitant." />
-    <string id="cRvSuYC8" text="Choose another weapon or go to another training area." />
+    <string id="cRvSuYC8" text="Choisissez une autre arme ou allez dans une autre zone d'entraînement." />
     <string id="csUq1RCC" text="You were employed as a hired hand at the town's stables. The overseers recognized that you had a knack for horses, and you were allowed to exercise them and sometimes even break in new steeds." />
     <string id="CvBoRaFv" text="You were able to grab a knife in the confusion of the attack. You stabbed a raider blocking your way." />
     <string id="cYibaPhn" text="The barbarians just kept coming and coming. I fought my way out with some loyal men, and made my way back to the capital. But I found that Arenicos had got there before me, and had himself declared Emperor. He always was a cunning operator." />
@@ -246,7 +246,7 @@
     <string id="FWSwngVX" text="Shall we get on the road? Remember - if I drop dead of exhaustion, or drown in some river, that's it for your little dears. I don't expect a cozy palanquin, now, but you'd best not make it too hard a trip for me." />
     <string id="g31pXuqi" text="Oasis farmers" />
     <string id="GabaznVa" text="About founding my own faction.." />
-    <string id="gBbm9beO" text="Hit all of the targets. {REMAINING_TARGET} {?REMAINING_TARGET&gt;1}targets{?}target{\?} left." />
+    <string id="gBbm9beO" text="Touchez toutes les cibles. {REMAINING_TARGET} {?REMAINING_TARGET&gt;1}cibles{?}target{\?} restante." />
     <string id="GCbqpeDs" text="Tutorial is over. You are now free to explore Calradia." />
     <string id="gdgbaMOP" text="I am not sure I share your views." />
     <string id="GeNKQlHR" text="Members of the chieftain's hearthguard" />
@@ -254,7 +254,7 @@
     <string id="GFUggps8" text="marched with the camp followers" />
     <string id="GGfM1HKn" text="Welcome to MBII Bannerlord" />
     <string id="Ghz90npw" text="Your family owned a few horses at the town stables and you took charge of their care. Many evenings you would take them out beyond the walls and gallup through the fields, racing other youth." />
-    <string id="gJBNUAJd" text="Finish the track and hit as many targets as you can." />
+    <string id="gJBNUAJd" text="Terminez la piste et touchez autant de cibles que possible." />
     <string id="gL241Hoz" text="Very nice. Superstitious twaddle, of course, but people will believe you." />
     <string id="gL3WCqM5" text="Settlement Count" />
     <string id="GM3tAYMr" text="Take a hostile action" />
@@ -266,9 +266,9 @@
     <string id="GVMGXfxS" text="You can use our family name if you like or make up a new one. You will have a better chance of obtaining an audience with nobles and it’ll be easier for me to find you by asking around." />
     <string id="GxlPj4GC" text="Find the hideout that Istiana told you about and get the next banner piece." />
     <string id="gYYGGflb" text="We have no time to lose. We can do more if we split up. (Skip tutorial)" />
-    <string id="GZaYmg95" text="You've successfully finished the sword tutorial." />
+    <string id="GZaYmg95" text="Vous avez terminé avec succès le didacticiel à l'épée." />
     <string id="h2KnarLL" text="trained with the cavalry" />
-    <string id="h31YaM4b" text="Mount the horse." />
+    <string id="h31YaM4b" text="Monter le cheval." />
     <string id="h9VP4ypW" text="Find and meet {HERO.LINK} to learn more about Neretzes's Banner. She is currently in {SETTLEMENT}." />
     <string id="hadftxlO" text="We have strayed too far from our path. I'll take the lead for some time. You follow me." />
     <string id="HDBkwjgf" text="{NOBLE_ANSWER}" />
@@ -284,7 +284,7 @@
     <string id="HqlXdzcv" text="Talk with {HEADMAN.NAME}" />
     <string id="HqzVBfpl" text="Urban traders" />
     <string id="hUjmasXC" text="And, you must own an imperial settlement." />
-    <string id="HvGW2DvS" text="Track started." />
+    <string id="HvGW2DvS" text="Entraînement commencé." />
     <string id="hXl25avg" text="Your family arranged for a private tutor and you took full advantage, reading voraciously on history, mathematics, and philosophy and discussing what you read with your tutor and classmates." />
     <string id="hYgmzZJX" text="Denars" />
     <string id="i20baAus" text="\n+{VALUE} to {TRAIT_NAME_ONE}, {TRAIT_NAME_TWO} and {TRAIT_NAME_THREE}" />
@@ -347,7 +347,7 @@
     <string id="kTaYz2mo" text="You talked with {HERO.NAME}." />
     <string id="kvTEeUWO" text="Wrong way!" />
     <string id="kw9sltab" text="The Battanians had planned an ambush up in a wooded pass for the imperial vanguard, then the Vlandians and Sturgians were to come sweeping down on their flanks in the battle. Our scouts found the Battanian ambush, but Neretzes did not listen, and blundered into it anyway." />
-    <string id="kwW6v202" text="Go to shooting position." />
+    <string id="kwW6v202" text="Aller à la position de tir." />
     <string id="KXj8bsao" text="So... If you intend to use the banner to save the Empire, I’ll tell you what I know. But if you want to go backward, not forward, then I will not help you." />
     <string id="KXtaJNo4" text="\n+{VALUE} renown" />
     <string id="kYtRsxSL" text="We fought the Vlandians. We won, but there was a great slaughter. My husband’s horse was slain and he was ridden down, though he died amid a pile of Vlandian dead. Elsewhere on the field, the Emperor was having his head hewn off with a Sturgian axe, and thus was in no position to pay us." />
@@ -384,7 +384,7 @@
     <string id="muTb15Io" text="I do not know where the other pieces are, you may need to keep searching for them.[sp:/Sounds/VO/mainquest/mntemp_q01_10.ogg]" />
     <string id="mxKhvbn7" text="You have decided to unify the Empire." />
     <string id="N5Qg5ick" text="You told {MENTOR.LINK} that you will create your own imperial faction. {?MENTOR.GENDER}She{?}He{\?} expects you after the requirements are fulfilled." />
-    <string id="N66QkYv8" text="You've successfully beaten rookie trainer. Go to veteran trainer." />
+    <string id="N66QkYv8" text="Vous avez battu avec succès l'entraîneur débutant. Allez voir l'entraîneur vétéran." />
     <string id="NdkqUnXb" text="To create your own kingdom, you must fulfil some conditions." />
     <string id="Nf3Hso4i" text="When this civil war began, I was a bit torn... Rhagaea was the cleverest ruler, Garios probably the best fighter, and Lucon seemed to have the best grasp of our laws and traditions. But you can make up your own mind." />
     <string id="ngazFofr" text="You were always drawn to animals, and spent as much time as possible hanging out in the village stables. You could calm horses, and were sometimes called upon to break in new colts. You learned the basics of veterinary arts, much of which is applicable to humans as well." />
@@ -454,7 +454,7 @@
     <string id="rcoueCmk" text="Adolescence" />
     <string id="rCX81DDR" text="The Empire has been destroyed!" />
     <string id="RDfXuVxT" text="Yeomen" />
-    <string id="Rf23Ga4s" text="You've successfully finished the track in ({TIME_SCORE}) seconds. You've hit ({HIT_COUNT}) of ({TOTAL_COUNT}) targets." />
+    <string id="Rf23Ga4s" text="Vous avez terminé la piste avec succès en ({TIME_SCORE}) secondes. Vous avez atteint ({HIT_COUNT}) des ({TOTAL_COUNT}) cibles." />
     <string id="RF3NoR3d" text="He seemed to be controlling more than one band raiding around this area. If this lot has your kin, then I think he'd be the one to know." />
     <string id="rfkKxdxp" text="You talked with {ANTI_IMPERIAL_MENTOR.LINK} too. Now you should make a decision." />
     <string id="Ri6NmpEE" text="I will never forget when a messenger ran to tell me that my father was dead. But I knew I must swallow my grief, because now I was king. I rode down into the ruins of the imperial camp to take their banner as a trophy, my inheritance won by my father and passed down to me. Oh, some of the boyars were insubordinate. But I have since showed them that I am master." />
@@ -553,7 +553,7 @@
     <string id="vxDVCK3n" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again." />
     <string id="w0CUaEU7" text="You haven't cut my throat yet, which was a wise move. I'm sure I can find a way to be worth more to you alive than dead." />
     <string id="w2TEQq26" text="You were always attentive to other people, good at guessing their motivations. You studied how individuals were swayed, and tried out what you learned from adults on your friends." />
-    <string id="W49eUmpT" text="You can dismount from horse with ({CROUCH_KEY}) or ({ACTION_KEY}) while looking at the horse." />
+    <string id="W49eUmpT" text="Vous pouvez descendre de cheval en appuyant sur ({CROUCH_KEY}) ou ({ACTION_KEY}) tout en le regardant." />
     <string id="wajioDaK" text="I stayed with Neretzes until we were forced back to our camp by the Sturgian infantry, and then fought on the battlements. Eventually we could hold them no longer. I did not see what happened to Neretzes or to our banner. Arenicos got us out of there, and got us home. I did not respect Arenicos before, but that day I saw he was worthy to be Emperor." />
     <string id="WbHfGCbd" text="You survived a siege" />
     <string id="WchH8bS2" text="Your family were middle-ranking members of a Battanian clan, who tilled their own land. Your father fought with the kern, the main body of his people's warriors, joining in the screaming charges for which the Battanians were famous." />
@@ -561,7 +561,7 @@
     <string id="wErSpkjy" text="I'm still working on it." />
     <string id="weS3DJKA" text="Weakened by war, the ruler of the {FACTION} offers to make peace with {PLAYER_FACTION}." />
     <string id="wfbtS71d" text="You led a caravan" />
-    <string id="WIUbM9Hc" text="Choose a weapon to begin training." />
+    <string id="WIUbM9Hc" text="Choisissez une arme pour commencer l'entraînement." />
     <string id="WN1tHPnB" text="We should have gone on to seize all the western empire. If Derthert had any manhood, we’d have done so. But his heart was never in the war. He believed he’d broken his oath to the Empire by helping the Sturgians, and it gnawed at him. He’d have made a fine lackey. Instead he’s our king." />
     <string id="wO19nK2y" text="You have weakened the Empire." />
     <string id="WOKNhaG2" text="Your family were guardians of the sacred traditions of the Khuzaits, channelling the spirits of the wilderness and of the ancestors. They tended the sick and dispensed wisdom, resolving disputes and providing practical advice." />
@@ -593,7 +593,7 @@
     <string id="Xqba1Obq" text="Nomads" />
     <string id="Xrz05hYE" text="Take a walk around" />
     <string id="XtC0hXhr" text="Support {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}" />
-    <string id="xVFupnFu" text="You've successfully hit all of the targets in ({TIME_SCORE}) seconds." />
+    <string id="xVFupnFu" text="Vous avez réussi à atteindre toutes les cibles en ({TIME_SCORE}) secondes." />
     <string id="XWL3XcIq" text="{FACTION} Defeated" />
     <string id="y3fn2vWY" text="Recruit Troops" />
     <string id="Y3UcaX74" text="your aptitude for numbers" />
@@ -622,7 +622,7 @@
     <string id="z3VamNrX" text="Send in your troops." />
     <string id="z8LQn2Uh" text="You have arrived at the hideout." />
     <string id="ZAGR6PYc" text="When a sudden blaze broke out in a back alley, your neighbors needed quick-thinking leadership and you provided it. You organized a bucket line to the nearest well, putting the fire out before any homes were lost." />
-    <string id="Zb1uFhsY" text="Go to trainer." />
+    <string id="Zb1uFhsY" text="Aller à l'entraîneur." />
     <string id="ZDEcFXIm" text="You may have one piece of the banner, but it’s of little use in itself. You’ll have to find the other parts. But once you can bring together the pieces, you’ll have something of tremendous value.[sp:/Sounds/VO/mainquest/mntemp_q01_03.ogg]" />
     <string id="zEoHYEUS" text="Wait here for some time" />
     <string id="ZhZ7MCeh" text="Well. I recognize defeat when I see it. If I'm going to be your captive, let me introduce myself. I'm Radagos." />

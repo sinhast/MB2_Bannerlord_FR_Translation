@@ -39,6 +39,6 @@
     <string id="rwZAZSvX" text="({KEY}) Move" />
     <string id="sSJSTe5p" text="Player Party" />
     <string id="TJj71hPO" text="({KEY}) Close" />
-    <string id="wY1qP2qj" text="({KEY}) Select" />
+    <string id="wY1qP2qj" text="Prendre ({KEY})" />
   </strings>
 </base>
