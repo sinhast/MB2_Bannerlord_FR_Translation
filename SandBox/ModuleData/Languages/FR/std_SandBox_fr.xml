@@ -185,7 +185,7 @@
     <string id="8lOCOcXw" text="Your word shall direct the strike of my sword and the flight of my arrow..." />
     <string id="8N3cs42a" text="So... The word is that {NOTABLE.LINK} is looking to cut costs at {?NOTABLE.GENDER}her{?}his{\?} {SHOP_TYPE}. They say {?NOTABLE.GENDER}she{?}he{\?}'s been docking the men's wages right and left." />
     <string id="8NDuezga" text="Now, I was talking to my {RANDOM_RELATIVE}, and he tells me he bought some {ITEM_NAME} around here for cheap and took it to {TOWN_NAME}. Said he made {PRICE_DIFF}{GOLD_ICON} of profit on each bundle." />
-    <string id="8OkPHu4f" text="No" />
+    <string id="8OkPHu4f" text="Non" />
     <string id="8PrhJeiK" text="[TODO] This is an empty alley!" />
     <string id="8SJ02xNi" text="So who were they?" />
     <string id="8tac7kNO" text="{WANDERER_BACKSTORY_D}" />
@@ -239,7 +239,7 @@
     <string id="aeCYFe1g" text="Whom do you want to lead the caravan?" />
     <string id="AeJqCMJc" text="Yes, you will see. Good day to you. " />
     <string id="aEL2S1PZ" text="Heavens protect us from the {?NOTABLE.GENDER}lady{?}lord{\?} {NOTABLE.LINK}..." />
-    <string id="aeouhelq" text="Yes" />
+    <string id="aeouhelq" text="Oui" />
     <string id="Aerxq1su" text="I don't really have any trustworthy companions to leave here." />
     <string id="afdN8ZU7" text="Thinking again, I already have more companions then I can manage." />
     <string id="afRebqPd" text="What's happening? Am I free?" />

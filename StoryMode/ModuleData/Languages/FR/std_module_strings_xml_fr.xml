@@ -10,12 +10,12 @@
     <string id="3Y5dudW9" text="Alda" />
     <string id="3YkpC9Nf" text="Vous pouvez filtrer les Objets via des boutons en haut. Filtrer les sur Autres." />
     <string id="4IZnbvlD" text="Baudein" />
-    <string id="5bYwdRFs" text="Entraînement à l'épée" />
+    <string id="5bYwdRFs" text="Entraînement au bouclier" />
     <string id="5M48atXU" text="Vous avez une quête active! Vous pouvez en savoir plus à ce sujet en cliquant sur le journal de quête en bas à gauche de votre écran." />
     <string id="7xHMIZEP" text="Cible d'entraînement" />
     <string id="8UUV94Lq" text="Entraînement à distance" />
     <string id="8YvBapxl" text="Varic" />
-    <string id="9YqwNQPO" text="Entraînement à l'arc monté" />
+    <string id="9YqwNQPO" text="Entraînement à distance monté" />
     <string id="ajo9KQpr" text="Battre l'entraîneur débutant" />
     <string id="at4MdVBJ" text="Fathid" />
     <string id="atWs6mkm" text="Entraînement à l'épée et au bouclier" />
@@ -38,7 +38,7 @@
     <string id="FFP17aSl" text="Au début d'une bataille, vos soldats conserveront leur position. Vous pouvez leur dire de vous suivre en ouvrant les ordres de mouvement avec &quot;F1&quot; et en choisissant &quot;Suivez-moi&quot; avec &quot;F2&quot;." />
     <string id="fpdXZ0fl" text="Recrutement" />
     <string id="GCqWwDWg" text="Baladir" />
-    <string id="GjGF4xbn" text="Entraînement au bouclier" />
+    <string id="GjGF4xbn" text="Entraînement à l'épée à deux mains" />
     <string id="gUvxp8mf" text="Entraînement à l'arc" />
     <string id="IcBq2jSZ" text="Aitheen" />
     <string id="Il7C9LQG" text="Vous pouvez déplacer votre personnage:{newline}- Avancer avec [Z]{newline}- Reculer avec [S]{newline}- Aller à gauche avec [Q]{newline}- Aller à droite avec [D]{newline}{newline}Essayez!" />
@@ -78,7 +78,7 @@
     <string id="rLEIuqZO" text="Après une bataille acharnée, vous pouvez avoir le choix de faire des prisonniers ou de recruter ceux que vous avez libérés de votre ennemi.{newline}{newline}Les deux options se font en transférant les troupes à votre groupe avec le petit bouton fléché à gauche." />
     <string id="Rvn8tGB0" text="Votre frère vous a demandé d'engager au moins 4 hommes avant de partir à la rencontre des pillards.{newline}{newline}Vous pouvez engager des troupes dans les villages et les villes en cliquant sur le boutton &quot;Recrute des Troupes&quot;." />
     <string id="Sfd3aqia" text="Bandan" />
-    <string id="tZtrK3cs" text="Entraînement au tir à l'arc monté" />
+    <string id="tZtrK3cs" text="Entraînement à l'arc monté" />
     <string id="uW4htMut" text="Avec épée et bouclier" />
     <string id="w4Ajm40u" text="Faroc" />
     <string id="WjuwOavt" text="Les missions cachées commencent avec l'ennemi ignorant votre approche.{newline}{newline}Ordonnez à vos troupes de vous suivre avec &quot;F1&quot; puis &quot;F2&quot; et essayez de les affronter en petits groupes." />

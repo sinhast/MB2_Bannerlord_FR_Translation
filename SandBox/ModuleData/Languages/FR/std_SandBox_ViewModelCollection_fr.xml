@@ -8,9 +8,9 @@
     <string id="5zeL8sa9" text="You gained {A0} influence." />
     <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT}p" />
     <string id="7WdWK2Dt" text="Save Game" />
-    <string id="8OkPHu4f" text="No" />
+    <string id="8OkPHu4f" text="Non" />
     <string id="9NuttOBC" text="Load" />
-    <string id="aeouhelq" text="Yes" />
+    <string id="aeouhelq" text="Oui" />
     <string id="Ahy035gM" text="Build Cost" />
     <string id="azJulvrp" text="{?IS_BETTING}You are going to lose {BET_AMOUNT}{GOLD_ICON} if you forfeit.{newline}{?}{\?}Do you really want to forfeit?" />
     <string id="bV75iwKa" text="Save" />
