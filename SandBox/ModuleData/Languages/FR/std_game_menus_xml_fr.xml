@@ -111,7 +111,6 @@
     <string id="DOsjwiLG" text="View companion mission report." />
     <string id="dTMSNlRl" text="How many opponents will you go against?" />
     <string id="DvcmnLFs" text="{!}Force defend." />
-    <string id="dvrLEmiR" text="You should never see this text." />
     <string id="dziMGFUB" text="The decision is made, and you resolve to give up your adventurer's life and settle down. You sell off your weapons and armour, gather up all your money, and ride off into the sunset...." />
     <string id="E05uLqqx" text="30 yards." />
     <string id="e0bDqIIN" text="Town Name: {s1}^Rent Income: {reg1} denars^Tariff Income: {reg2}{GOLD_ICON}^Food Stock: for {reg3} days" />
@@ -142,7 +141,7 @@
     <string id="GfW8kSay" text="Being forced out of your home." />
     <string id="GgVTuoYz" text="{s10}" />
     <string id="GM1tvFNX" text="You remain in disguise for as long as possible before revealing yourself. The guards are outraged and beat you savagely before throwing you back into the cell for God knows how long..." />
-    <string id="GmcgoiGy" text="Trade" />
+    <string id="GmcgoiGy" text="Commerce" />
     <string id="gPbFPJPw" text="Join the battle." />
     <string id="GT2FAj5O" text="Renouncing your oath is a grave act. Your lord may condemn you and confiscate your lands and holdings. However, if you return them of your own free will, he may let the betrayal go without a fight." />
     <string id="gx901scU" text="Go to the blacksmith." />

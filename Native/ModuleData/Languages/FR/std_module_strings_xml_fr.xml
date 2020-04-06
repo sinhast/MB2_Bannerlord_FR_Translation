@@ -70,7 +70,7 @@
     <string id="2Sal30D2" text="+{BONUS_AMOUNT} bonus to owner's influence" />
     <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (tax)" />
     <string id="2W2l9Kym" text="Ultimate Leader Perk Bonus" />
-    <string id="2wclahIJ" text="Throwing" />
+    <string id="2wclahIJ" text="Arme de jet" />
     <string id="2WpbTaVJ" text="+{BONUS_AMOUNT} bonus to taxes" />
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}days {?}day {\?}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {?IS_MORE_THAN_AN_HOUR}hours{?}hour{\?}{\?}" />
     <string id="300TAI7u" text="Sell All" />
@@ -147,7 +147,7 @@
     <string id="5kS1qjZL" text="There is already an unresolved decision on this settlement." />
     <string id="5lDYh7wJ" text="You've constructed a barrier against your opponent, but have fewer pawns left. You lost the game!" />
     <string id="5QN7SFNW" text="III" />
-    <string id="5rj7xQE4" text="Bow" />
+    <string id="5rj7xQE4" text="Arc" />
     <string id="5RSfkx7d" text="Gathering of your army may take some time." />
     <string id="5sMBbn7y" text="Calculating" />
     <string id="5SQaiYXi" text="FOUL! No hitting your opponent's horse. You have been disqualified!" />
@@ -328,7 +328,7 @@
     <string id="B1j4F6i7" text="{?DAY_IS_PLURAL}Days{?}Day{\?}" />
     <string id="b1Ra7gHa" text="Ranged Weapons II" />
     <string id="b1vtY2yU" text="Expected" />
-    <string id="b4lDDcli" text="Family" />
+    <string id="b4lDDcli" text="Famille" />
     <string id="B5J6DbpG" text="Remaining Days With Food: {REMAINING_DAYS}{newline}{newline}Total Food: {TOTAL_FOOD_AMOUNT}{newline}Daily Consumption: {DAILY_FOOD_CONSUMPTION}" />
     <string id="b5t34yLX" text="Horse Harness" />
     <string id="b6biU4f1" text="Create New Party" />
@@ -366,7 +366,7 @@
     <string id="bh2v8n4K" text="Garment" />
     <string id="BhGlPxqx" text="You can only disband mobile parties" />
     <string id="bIiBytSB" text="Archers" />
-    <string id="bj0Ko5uX" text="The Calradian Empire is in decline. Even before the murder of the Emperor Arenicos, the once united realm was torn by political rivalries. Today, those factions are in open war. Yet Calradians endure. They are technologically more advanced than their neighbors and their mastery of engineering is not just evident in their aqueducts, beautiful architecture and massive city walls. It also makes them experts in siege warfare." />
+    <string id="bj0Ko5uX" text="L'Empire calradien est en déclin. Avant même le meurtre de l'empereur Arenicos, le royaume jadis uni était déchiré par des rivalités politiques. Aujourd'hui, ces factions sont en guerre ouverte. Pourtant, les Calradiens perdurent. Ils sont technologiquement plus avancés que leurs voisins et leur maîtrise de l'ingénierie n'est pas seulement évidente dans leurs aqueducs, leur belle architecture et leurs murs massifs. Cela en fait également des experts en matière de guerre de siège." />
     <string id="bJ5SzaXp" text="Wounded" />
     <string id="bjxBjKH2" text="my lady" />
     <string id="bjzVPXtf" text="Propose" />
@@ -409,7 +409,7 @@
     <string id="bZOVbBRG" text="When your skill points reach a required threshold, one or more perks will become available.{newline}{newline}This will be notified by a small indicator over the character screen button.{newline}{newline}Click on the character button to view available perk choices." />
     <string id="bzrOHiS8" text="People openly curse the authorities, as though they feel they have nothing to lose." />
     <string id="C0llOApK" text="{HERO}'s Army" />
-    <string id="c1Ag8YJS" text="The Battanians still remember the olden days when the woods stretched across northern Calradia, and the Empire and its cities had yet to violate their sanctity. The fierce warriors remain loyal to their traditional ways. They paint their faces when going to battle and even their noblemen prefer to fight on foot while using great axes and two-handed swords with deadly efficiency." />
+    <string id="c1Ag8YJS" text="Les Battanians se souviennent encore des temps anciens où les bois s'étalaient à travers le nord de la Calradia, et l'Empire et ses villes n'avaient pas encore violé leur caractère sacré. Les guerriers féroces restent fidèles à leurs habitudes traditionnelles. Ils se peignent le visage lorsqu'ils vont au combat et même leurs nobles préfèrent se battre à pied tout en utilisant de grandes haches et des épées à deux mains avec une efficacité mortelle." />
     <string id="c1g7MC9D" text="Clan Tier Bonus" />
     <string id="c2pdihCB" text="Caravans" />
     <string id="c3cdHImi" text="Capture your opponent's pawns by surrounding them on both sides. If a pawn moves in between two opposing pawns, it does not get captured.{newline}In the first two images, white pawns get captured by the black pawns. In the last two, there are no captures." />
@@ -448,7 +448,7 @@
     <string id="cQWCp9F1" text="Daily Party Wage" />
     <string id="cr9fxFyS" text="Bonus Against Shield" />
     <string id="cRMgjRMP" text="Good, good. I much prefer a straight-up deal to rummaging through your gut afterward to see what you might have hid there.[ib:hip][rb:trivial]" />
-    <string id="CRR7cYhJ" text="Currently Building temp" />
+    <string id="CRR7cYhJ" text="Currently Building" />
     <string id="cRwZI5o2" text="Recent Events" />
     <string id="CsjtWt1g" text="Tavern Keeper" />
     <string id="CthDdsb6" text="Winner" />
@@ -464,6 +464,7 @@
     <string id="D7ooUTqV" text="You are down!" />
     <string id="D8wa0m1m" text="m" />
     <string id="D8Wjbw9K" text="I got captured, but later managed to escape" />
+    <string id="D9WJXQ9Z" text="Reject" />
     <string id="DaE0N37L" text="Notables" />
     <string id="dbdliaP3" text="my wife {REFERING_HERO.LINK}" />
     <string id="DbHLHwkX" text="Smelt" />
@@ -485,7 +486,7 @@
     <string id="DM6luo3c" text="Continue" />
     <string id="dMKyWmJ6" text="You are trapped by enemies." />
     <string id="dO5tqXT8" text="Ex-Spouse" />
-    <string id="DOKG38dF" text="Tutorials Enabled" />
+    <string id="DOKG38dF" text="Didacticiels activés" />
     <string id="dpylFaD1" text="Units" />
     <string id="DqJG7bvh" text="Capacity Exceeded" />
     <string id="dQRdP9eQ" text="Encounter" />
@@ -506,7 +507,6 @@
     <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} charging at {?IS_PLURAL}different enemy formations{?}an enemy formation{\?}." />
     <string id="Dzntsudy" text="You have inflicted {AMOUNT} {DAMAGE_TYPE} damage to {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)." />
     <string id="E05lmb5n" text="Your relation with {HERO_NAME} will &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;decrease&lt;/b&gt;&lt;/a&gt;" />
-    <string id="E1HbgxyM" text="You can earn attribute points by SOMETHING. TODO:" />
     <string id="E1OwmQFb" text="Retour" />
     <string id="e1tZ4kEY" text="All Stuff" />
     <string id="e4OPfBqt" text="Abstain" />
@@ -558,7 +558,7 @@
     <string id="ewUtdIQh" text="s" />
     <string id="ExjMoUiT" text="Hardwood" />
     <string id="ey5OcaGI" text="Can't be used with Shields" />
-    <string id="eyMU7X0e" text="You're a lord and voting. The ruler will vote in the end and decide the outcome. TEMP" />
+    <string id="eyMU7X0e" text="You're a lord and voting. The ruler will vote in the end and decide the outcome." />
     <string id="EZLs7hLL" text="You! Stop! Give us your silver. We're not playing games." />
     <string id="EzrK2tnA" text="You cannot manage your army while in battle" />
     <string id="F4RMyaR5" text="You have encountered {PARTY}." />
@@ -660,7 +660,7 @@
     <string id="H4rAiNlf" text="You bet {BET_AMOUNT} on yourself and you won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}." />
     <string id="h55xdL1l" text="MuTorere" />
     <string id="h60wQVVX" text="Pike" />
-    <string id="h6AJXR2e" text="Are you sure retreat your party?" />
+    <string id="h6AJXR2e" text="Are you sure to retreat your party?" />
     <string id="H9y9dLao" text="You can wager gold to increase the prize you take. Every round, the odds will be different and you can wager {MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; each time." />
     <string id="haax8kMa" text="Polearm" />
     <string id="hAgZBZP8" text="Forfeit" />
@@ -668,17 +668,21 @@
     <string id="hbeUbpEA" text="Are you sure you want to cancel?" />
     <string id="HcAV8x7p" text="Party Member" />
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}" />
-    <string id="HD2wzAxz" text="Sturgians are the descendants of the foreign tribes of northern Calradia. As the empire expanded into their cold forests, they found that a ready market for the luxurious furs of woodland animals whom they traditionally hunted and trapped. Sturgian chieftains became princes, vying for pre-eminence with the help of Nord mercenaries who migrated into their realm. They are good hunters and wanderers, travelling far in search of opportunies both for trade and for plunder." />
+    <string id="HD2wzAxz" text="Les Sturgians sont les descendants des tribus étrangères du nord de Calradia. Alors que l'empire se développait dans leurs forêts froides, ils ont trouvé un marché prêt pour les fourrures luxueuses des animaux des bois qu'ils chassaient et piégeaient traditionnellement. Les chefs sturgians sont devenus des princes, luttant pour la prééminence avec l'aide de mercenaires du Nord qui ont migré dans leur royaume. Ce sont de bons chasseurs et vagabonds, voyageant loin à la recherche d'opportunités à la fois pour le commerce et pour le pillage." />
     <string id="hDktLs4a" text="You have acted wisely and with respect. You may go." />
     <string id="HdTVkcII" text="Improve relations with people. Socialize with nobles. Do Barters." />
-    <string id="HEQ2zEei" text="Undo" />
+    <string id="HEQ2zEei" text="Annuler le dernier changement" />
     <string id="hEWuE0Ch" text="You're the commander. You will be able to order all formations during the battle." />
     <string id="hfSW9FTN" text="Ranged Weapons V" />
     <string id="HGBuP0wy" text="After this prisoner gains {CONFORMITY_AMOUNT} conformity, one more prisoner will be available for recruitment. Prisoners gain {CONFORMITY_PER_HOUR} conformity per hour." />
     <string id="HiSzYWeh" text="Beer" />
     <string id="hJypvWMR" text="Refine" />
     <string id="HkfY3Ds5" text="Body Armor" />
-    <string id="HkZ4E94O" text="The Khuzait confederation of steppe tribes used to live a nomadic life, but have recently settled in the eastern frontier of the Empire and are slowly transitioning into an agrarian society with permanent town centers. Despite this, they still retain many aspects of their nomadic life, including their affinity with horses. They are masters of mounted archery, shooting and then galluping out of reach." />
+<<<<<<< HEAD
+    <string id="HkZ4E94O" text="La confédération Khuzait des tribus des steppes menait une vie nomade, mais s'est récemment installée à la frontière orientale de l'Empire et se transforme lentement en une société agraire avec des centres-villes permanents. Malgré cela, ils conservent encore de nombreux aspects de leur vie nomade, y compris leur affinité avec les chevaux. Ils sont passés maîtres dans le tir à l'arc monté, tirant puis galopant hors de portée." />
+=======
+    <string id="HkZ4E94O" text="The Khuzait confederation of steppe tribes used to live a nomadic life, but have recently settled in the eastern frontier of the Empire and are slowly transitioning into an agrarian society with permanent town centers. Despite this, they still retain many aspects of their nomadic life, including their affinity with horses. They are masters of mounted archery, shooting and then galloping out of reach." />
+>>>>>>> cdf581c5044b0c183dcd62f41d5f81436c70eb57
     <string id="hL3JIQbd" text="Lead this formation to battle." />
     <string id="HmbvM9Na" text="Do you want to skip current match?" />
     <string id="HMgrtLYa" text="Your champion has lost the duel. Your army is disheartened by this defeat. Your party loses morale." />
@@ -736,7 +740,7 @@
     <string id="InGwtrWt" text="Quit" />
     <string id="inKr3PbA" text="Armies" />
     <string id="iNriAkLl" text="Used for increasing speed" />
-    <string id="ioBKEA6x" text="You can earn character points by leveling up. You will get {POINT_PER_LEVEL} points for every level you earn." />
+    <string id="ioBKEA6x" text="You can use free focus points for increasing your learning limit in individual skills. Characters earn one focus point evry time they level up." />
     <string id="ioKVFDcQ" text="{?AND} {?}and {\?}{SENTENCE_3} " />
     <string id="iOLa5rjZ" text="Grain is usually the cheapest food you can buy.{newline}{newline}Other types of food may grant various bonuses when consumed.{newline}{newline}Buy some food now." />
     <string id="IoLK7Lec" text="Base size" />
@@ -820,6 +824,7 @@
     <string id="k8PxNh7x" text="Shield V" />
     <string id="k8QpbFnj" text="Cape" />
     <string id="k9QvIYaR" text="Focus points are used to increase the learning rate at any skill." />
+    <string id="kA5tlKTz" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every three levels you gain. " />
     <string id="ka7vAxgo" text="Charge at enemy {TARGET_FORMATION}" />
     <string id="KawqKhwh" text="Heavy Armor" />
     <string id="KC5AZohd" text="Greetings, traveler. Welcome to our forest. We're going to have to collect a small toll." />
@@ -834,7 +839,11 @@
     <string id="kgqCVvIb" text="my brother {REFERING_HERO.LINK}" />
     <string id="kHC5EjDJ" text="Town Bonus" />
     <string id="kHC5EjEJ" text="Minor Faction Bonus" />
-    <string id="Khr5yETv" text="The Aserai are the inhabitants of the Nahhas desert, a mixture of nomadic bedouin and settled oasis farmers. They are famous for their horsemanship and their knowledge of the learning of many lands, especially medicine, gained from lying on some of the continent's most lucrative trade routes. Each clan is fiercely proud of its lineage and often jealous of the others, but when united by a charismatic leader, they become a major force in the south." />
+<<<<<<< HEAD
+    <string id="Khr5yETv" text="Les Aserai sont les habitants du désert de Nahhas, un mélange de bédouins nomades et d'agriculteurs oasis installés. Ils sont réputés pour leur équitation et leur connaissance de l'apprentissage de nombreuses terres, en particulier la médecine, acquise en se trouvant sur certaines des routes commerciales les plus lucratives du continent. Chaque clan est farouchement fier de sa lignée et souvent jaloux des autres, mais lorsqu'ils sont unis par un chef charismatique, ils deviennent une force majeure dans le sud." />
+=======
+    <string id="Khr5yETv" text="The Aserai are the inhabitants of the Nahasa desert, a mixture of nomadic bedouin and settled oasis farmers. They are famous for their horsemanship and their knowledge of the learning of many lands, especially medicine, gained from lying on some of the continent's most lucrative trade routes. Each clan is fiercely proud of its lineage and often jealous of the others, but when united by a charismatic leader, they become a major force in the south." />
+>>>>>>> cdf581c5044b0c183dcd62f41d5f81436c70eb57
     <string id="kIAsKjp1" text="Welcome to Mount&amp;Blade II: Bannerlord Gamescom demo!{newline}This demo showcases the mid-game features of Bannerlord!{newline}You are free to resolve issues, conquer settlements, govern cities, join tournaments, trade or just hang around in the game world. {newline}Have fun and don't hesitate to ask if you have any questions." />
     <string id="KiJd6Xik" text="Déplacement" />
     <string id="kiOst6DH" text="Empire" />
@@ -917,13 +926,13 @@
     <string id="M2b5mtAE" text="Companion of" />
     <string id="m2YKBbdI" text="Hello there, little lost sheep. We are wolves of the mountains, and we would like a moment of your time..." />
     <string id="m6A7RLby" text="Devious" />
-    <string id="M6tfHhq7" text="You have voted and the ruler has decided on the outcome. TEMP" />
+    <string id="M6tfHhq7" text="You have voted and the ruler has decided on the outcome." />
     <string id="m6uSOtE4" text="You don't have enough money." />
     <string id="M9p0vPad" text="I know your name... {COMMENT_STRING_MAIN}" />
     <string id="m9vD3VlN" text="This party will NOT grow or shrink in size. It will try to keep it's size as it is." />
     <string id="MaBSSg7I" text="Battering Ram" />
     <string id="MacceKIX" text="{RELATION_TEXT} of {NAME}" />
-    <string id="mAxXKaXp" text="Reset" />
+    <string id="mAxXKaXp" text="Remettre à zéro" />
     <string id="mbS0DkUo" text="Raid" />
     <string id="mbT1uNPa" text="Dagger" />
     <string id="Mc8ojOGn" text="Hearths" />
@@ -1141,7 +1150,7 @@
     <string id="QdDkviGe" text="Tier V" />
     <string id="qDSda1OI" text="{DAY} {?DAY_IS_PLURAL}days{?}day{\?}" />
     <string id="QE1XRyUP" text="+{BONUS_AMOUNT} bonus to siege engine production speed" />
-    <string id="qe686AAn" text="You're the ruler. Your decision will be the final one and will overrule anything. TEMP" />
+    <string id="qe686AAn" text="You're the ruler. Your decision will be the final one and will overrule anything." />
     <string id="QeeK2rge" text="you" />
     <string id="qeKskdiY" text="Tablut" />
     <string id="QewGND2m" text="Preparations" />
@@ -1263,7 +1272,7 @@
     <string id="T5VsEnNE" text="Men Count" />
     <string id="t5X1TNBq" text="Use siege machines{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}" />
     <string id="t6DiaDQ3" text="a begum" />
-    <string id="t6NXmyoF" text="{.e} {STR}" />
+    <string id="t6NXmyoF" text="{.a} {STR}" />
     <string id="t6xdCj43" text="Oh, indeed we can, indeed we can. Provided you have a fat purse and are ready to lighten it, of course.[ib:hip][rb:trivial]" />
     <string id="t78atYqH" text="Two Handed" />
     <string id="taaNCsVZ" text="You win the tournament by beating {TOURNAMENT_FINAL_OPPONENT} in the final round." />
@@ -1272,7 +1281,7 @@
     <string id="tDDG7gPa" text="Number of Healthy Attacker Soldiers" />
     <string id="TDQId8c9" text="You've constructed a barrier against your opponent, and have more pawns left. You win the game!" />
     <string id="tDy1TfDq" text="Return To Hero" />
-    <string id="tdYB3Tzc" text="Redo" />
+    <string id="tdYB3Tzc" text="Remettre le dernier changement" />
     <string id="tE1VwKTZ" text="Throwing Axe" />
     <string id="Te4xxzzK" text="Denars" />
     <string id="TeWnL9bh" text="my husband {REFERING_HERO.LINK}" />
@@ -1295,7 +1304,7 @@
     <string id="trRLa9pi" text="You have encountered {PARTY}. Fighting them will cause a war with the {KINGDOM}." />
     <string id="Tsn6bCft" text="Generous" />
     <string id="TSw4tD02" text="Really? I suppose I'll be getting my hands dirty today, then.[ib:aggressive][rb:very_negative]" />
-    <string id="TTWL7RLe" text="Crossbow" />
+    <string id="TTWL7RLe" text="Arbalète" />
     <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} using siege weapons." />
     <string id="TVcqGJ1r" text="Main hero is imprisoned!" />
     <string id="TvmDFK6o" text="{REWARD}" />
@@ -1308,7 +1317,7 @@
     <string id="U7Z7f7ZT" text="Spouse" />
     <string id="U8TPlwW9" text="Well met {PLAYER.LINK}. I am in your debt for what you just did. I hope one day I will find a way to repay it." />
     <string id="U8VHRdwF" text="Leg Armor: " />
-    <string id="ua15BlYh" text="Reset All" />
+    <string id="ua15BlYh" text="Tout remettre à zéro" />
     <string id="uAL3bCfN" text="Encumbrance{newline}Total equipped armor and weapon weight.{newline}High encumbrance will slow down your on foot movement speed" />
     <string id="UaN2lfwi" text="Weaponsmith" />
     <string id="Uaw5VF3D" text="Your opponent wants to forfeit. Do you accept your win? If you don't, you will continue playing." />
@@ -1356,7 +1365,7 @@
     <string id="UxyIkWah" text="Mercenaries cannot annex settlements." />
     <string id="uYFd4meY" text="Quest Given By" />
     <string id="V03gbccF" text="You hit a friendly troop!" />
-    <string id="V0Kw3O7c" text="Tutorial" />
+    <string id="V0Kw3O7c" text="Didacticiels" />
     <string id="V0OMMQ1F" text="A magisterial performance, {PLAYER.LINK}. Whack! Crack! You took down {OPPONENT_COUNT} of them. The crowd loved it. And you earned a prize of {PRIZE}{GOLD_ICON}." />
     <string id="V1FKcYyi" text="{SETTLEMENT_NAME} (Looted)" />
     <string id="v3cY44N1" text="You cannot annex a ruling clan's settlement." />
@@ -1476,7 +1485,7 @@
     <string id="xq62HAIO" text="Protect{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} flank of ally {TARGET_FORMATION}" />
     <string id="xqN16a4k" text="Board Game" />
     <string id="XqV3x4i3" text="Upon selection, this option will progress the persuasion attempt to the next stage." />
-    <string id="xs0MpdCM" text="Smithing" />
+    <string id="xs0MpdCM" text="Forge" />
     <string id="XseYJYka" text="Manage" />
     <string id="xsIU28Za" text="Nice! No more sleeping on hard cold rock and dining on stringy squirrel." />
     <string id="xSjgt7fs" text="Spring {DAY}, {YEAR}" />
@@ -1508,7 +1517,7 @@
     <string id="yBnwGiuB" text="Lord" />
     <string id="Ybvu10zM" text="Siege" />
     <string id="yCEMiKjB" text="Choose your {SELECTION}" />
-    <string id="YCYwPPlJ" text="Disable All Tutorials" />
+    <string id="YCYwPPlJ" text="Désactiver tous les didacticiels" />
     <string id="YDYnuBmC" text="Multiplayer" />
     <string id="yeEaBV29" text="We'll take it. You can live. Now go before I change my mind.[ib:closed][rb:positive]" />
     <string id="yenZGMzi" text="Fast Forward" />
@@ -1588,7 +1597,7 @@
     <string id="znxbib0f" text="Show stats for this usage" />
     <string id="zo5hQfll" text="The wolves win if they can remove 5 sheep from the board.{newline}{newline}The sheep win if they can block the wolves so they can't make any more moves." />
     <string id="zpaLDTI4" text="Pay, and you may pass." />
-    <string id="ZPaw3WuO" text="The Vlandians are the descendants of adventurers from the west who lived under the Empire for centuries before forming an independent kingdom. With the decline of imperial authority, they have evolved into a well organised feudal society led by a cast of warlike nobles who prefer to fight with spears and lances on horseback." />
+    <string id="ZPaw3WuO" text="Les Vlandians sont les descendants d'aventuriers de l'ouest qui ont vécu sous l'Empire pendant des siècles avant de former un royaume indépendant. Avec le déclin de l'autorité impériale, ils ont évolué vers une société féodale bien organisée dirigée par un groupe de nobles guerriers qui préfèrent se battre avec des lances et des lances à cheval." />
     <string id="zqihwKAs" text="&lt;b&gt;Ballista&lt;/b&gt;{NEWLINE}Shoots bolts at deadly effect. Effective against soldiers." />
     <string id="ZqWOb1jM" text="You are outside the town of {SETTLEMENT_NAME}. You cannot enter because you are wanted by the {FACTION_TERM}." />
     <string id="ZR2bAa1p" text="Light Cavalry" />

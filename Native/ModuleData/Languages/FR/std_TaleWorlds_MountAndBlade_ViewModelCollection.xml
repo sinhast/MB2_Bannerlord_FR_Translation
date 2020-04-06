@@ -5,6 +5,7 @@
   </tags>
   <strings>
     <string id="0647tsif" text="Profile" />
+    <string id="06V7fEV4" text="Press ESC to go back" />
     <string id="2Q6Mm9Jo" text="Gamepad Options" />
     <string id="2zcrC0h1" text="Gameplay" />
     <string id="3CpNUnVl" text="Annuler" />
@@ -35,21 +36,21 @@
     <string id="b31ITmm0" text="Stack Amnt." />
     <string id="b9PT1Yxc" text="Select a game type" />
     <string id="BAaS5Dkc" text="Apply" />
-    <string id="bIcFZT6L" text="Eyebrow Type" />
+    <string id="bIcFZT6L" text="Type de sourcil" />
     <string id="bON4Kn6B" text="Auto Assign" />
     <string id="BrYUHFsg" text="CHOOSE GAME" />
     <string id="bsiRNJtk" text="{NAME}:" />
     <string id="cDzWYQrz" text="Reset to default settings?" />
     <string id="chfTxqZg" text="Invalid command." />
     <string id="cK5DE88I" text="N/A" />
-    <string id="cLJdeUWz" text="Height:" />
+    <string id="cLJdeUWz" text="Taille :" />
     <string id="D0TbQm4r" text="BREACHED" />
     <string id="d5SNB0HV" text="Pick {ITEM_NAME}" />
     <string id="DAVb2Pzg" text="Charge Dmg." />
     <string id="Dbkx4v90" text="ROUND LOST" />
     <string id="DdOgvhsV" text="Kick" />
     <string id="DKqLY1aJ" text="Equip" />
-    <string id="DmaP2qaR" text="Skin Type" />
+    <string id="DmaP2qaR" text="Type de peau" />
     <string id="dMdmyb3Y" text="Password Protected" />
     <string id="DoDZGYf6" text="Select a poll type" />
     <string id="DQvGNQ0g" text="There isn't any unit under command." />
@@ -64,7 +65,7 @@
     <string id="FRSGOfUJ" text="Toggle include Combat Log" />
     <string id="ftoSCQ0x" text="Length" />
     <string id="g1lgiwn1" text="Not Logged In" />
-    <string id="G6hYIR5k" text="Voice Pitch:" />
+    <string id="G6hYIR5k" text="Hauteur de la voix :" />
     <string id="gcl2duJH" text="Reset your badge" />
     <string id="GGseMDd3" text="Durability" />
     <string id="GMhOZGnb" text="Cannot issue order while dead." />
@@ -95,13 +96,13 @@
     <string id="kftE5nvv" text="Horse Armor" />
     <string id="kG0xuyfE" text="Armory" />
     <string id="koX9okuG" text="None" />
-    <string id="l2CNxPXG" text="Teeth Type" />
+    <string id="l2CNxPXG" text="Type de dents" />
     <string id="LlrlE199" text="You can still deploy siege engines.\nBegin anyway?" />
     <string id="LrE2cUnG" text="Currently Disabled" />
     <string id="lugGPVOb" text="Login" />
     <string id="lWDq0Uss" text="JOIN" />
-    <string id="macpKFaG" text="Voice" />
-    <string id="mAxXKaXp" text="Reset" />
+    <string id="macpKFaG" text="Voix" />
+    <string id="mAxXKaXp" text="Remettre à zéro" />
     <string id="meFS5F4V" text="-{DAMAGE}" />
     <string id="Met1U45t" text="Raccourci" />
     <string id="MsAb6hed" text="{TEAM} team was wiped out" />
@@ -126,7 +127,7 @@
     <string id="qe46yXVJ" text="LOCKED FOR BALANCE" />
     <string id="qFPBhVh4" text="Refresh" />
     <string id="QfTt7YRB" text="Fire Rate" />
-    <string id="qXxpITdc" text="Eye Color:" />
+    <string id="qXxpITdc" text="Couleur des yeux :" />
     <string id="R28ac5ij" text="{NUMBER} Players" />
     <string id="r5WzivPb" text="Round Time" />
     <string id="Rc95Kq8r" text="Please wait..." />

@@ -4,9 +4,9 @@
     <tag language="Français" />
   </tags>
   <strings>
-    <string id="75nwCTEn" text="Clan Screen is disabled during Tutorial." />
+    <string id="75nwCTEn" text="L'interface de clan est désactivé pendant le didacticiel." />
     <string id="lBQXP6Wj" text="Start Game" />
-    <string id="Rvr1bcu8" text="Next" />
+    <string id="Rvr1bcu8" text="Suivant" />
     <string id="UjERCi2F" text="This feature is disabled." />
   </strings>
 </base>
